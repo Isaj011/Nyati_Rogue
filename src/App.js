@@ -115,7 +115,7 @@ function App() {
               <div className="timeline-panel">
                 <div className="timeline-heading">
                   <h4 className="text-secondary">Graphic design</h4>
-                  <h4 className="subheading"></h4>
+                  {/* <h4 className="subheading"></h4> */}
                 </div>
                 <div className="timeline-body">
                   <p className="textB">Design is not just about making things look good. Instead its a powerful tool of coommunication and influence.
@@ -129,8 +129,8 @@ function App() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4></h4>
-                  <h4 className="subheading"></h4>
+                  {/* <h4></h4> */}
+                  {/* <h4 className="subheading"></h4> */}
                 </div>
                 <div className="timeline-body">
                   <p className="textB">At Nyati_Rogue we have specialized in different fields of design. We have deep knowledge of Adobe Illustrator, Adobe Design
@@ -145,7 +145,7 @@ function App() {
               <div className="timeline-panel">
                 <div className="timeline-heading">
                   <h4 className="text-secondary">Development</h4>
-                  <h4 className="subheading"></h4>
+                  {/* <h4 className="subheading"></h4> */}
                 </div>
                 <div className="timeline-body">
                   <p className="textB">Nyati_Rogue specializes in system development ranging from mobile(crossplatform) to web development and support which will lead to recognition and success of your business. We rely heavily on our experience,
@@ -160,8 +160,8 @@ function App() {
               </div>
               <div className="timeline-panel">
                 <div className="timeline-heading">
-                  <h4></h4>
-                  <h4 className="subheading"></h4>
+                  {/* <h4></h4> */}
+                  {/* <h4 className="subheading"></h4> */}
                 </div>
                 <div className="timeline-body">
                   <p className="textB">Nyati_Rogue align mostly with Full-Stack developers highly experienced with most efficient and modern languages. This includes front-end frameworks such as JavaScript including
@@ -188,7 +188,7 @@ function App() {
       <div className="row">
         <div className="col-lg-12 text-center">
           <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
-          <h3 className="section-subheading textB"></h3>
+          {/* <h3 className="section-subheading textB"></h3> */}
         </div>
       </div>
       <div className="row">
